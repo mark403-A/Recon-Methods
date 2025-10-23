@@ -1,0 +1,6 @@
+manula recon methodology
+https://web.archive.org/cdx/search/cdx?url=domain/*&matchType=domain&output=text&fl=original&collapse=urlkey 
+
+https://www.virustotal.com/vtapi/v2/domain/report?apikey={api key}&domain=domain
+
+https://otx.alienvault.com/api/v1/indicators/hostname/domain/url_list?limit=500&page=1
